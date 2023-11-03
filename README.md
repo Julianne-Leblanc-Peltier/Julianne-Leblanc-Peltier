@@ -9,19 +9,25 @@
 ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 ![Krita](https://img.shields.io/badge/Krita-203759?style=for-the-badge&logo=krita&logoColor=EEF37B)
-
+#### Personal
+- Julianne Leblanc-Peltier | she/her | 15 | esfp-t | indigenous | high school student
+  
+#### Professional
 - studying computer programming <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSF9AeBHYDbw1Vy7NcpHdhLl_sguz6fuIyGqg&usqp=CAU" width="25">
-- competent graphic designer 
+- competent graphic designer
+      - excels in graphic designing tools such as canva
+- efficient in math and english studies
+- 91 Average in previous school year
+- completed INDIGital program
+    - a program which combines both Indigenous culture and coding aspects as a means to find solutions to Indigenous issues and promote Indigenous people in the computer programming world.
 
 
 
-<!-- 
-to create a table / divide sections
 <div align="center">
     <table >
      <tr>
-        <td><b>About Me</b></td>
-        <td><b>...</b></td>
+        <td><b>Interests</b></td>
+        <td><b>Classes</b></td>
      </tr>
      <tr>
        <td><a href="https://www.google.com/?safe=active&ssui=on" > </img></a></td>
@@ -29,7 +35,6 @@ to create a table / divide sections
      </tr>
     </table>
     </div>
--->
 
 <!--
 Here are some ideas to get you started:
