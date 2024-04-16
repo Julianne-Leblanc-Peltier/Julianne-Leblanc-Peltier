@@ -1,6 +1,6 @@
 # Julianne Leblanc-Peltier 🎧💻
 
-I'm a Grade 10 student aspiring for a computer science or technology job, using the courses available at my school, [St. Mother Teresa HS](https://teh.ocsb.ca/) !
+I'm a Grade 10 student aspiring for a computer science or technology job, using the courses available at my school, [St. Mother Teresa HS](https://teh.ocsb.ca/)
 
 ## Programming Languages
 
