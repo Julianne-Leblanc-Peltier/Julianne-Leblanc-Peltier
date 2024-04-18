@@ -3,7 +3,6 @@
 I'm a Grade 10 student aspiring for a computer science or technology job, using the courses available at my school, [St. Mother Teresa HS](https://teh.ocsb.ca/)
 
 ## Programming Languages
-
 <a href="https://github.com/search?q=user%3AJulianne-Leblanc-Peltier+language%3Abash"><img alt="Bash" src="https://img.shields.io/badge/Bash-121011.svg?logo=gnu-bash&logoColor=white"></a>  
 <a href="https://github.com/search?q=user%3AJulianne-Leblanc-Peltier+language%3Acss"><img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white"></a>
 <a href="https://github.com/search?q=user%3AJulianne-Leblanc-Peltier+language%3Ahtml"><img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white"></a>
