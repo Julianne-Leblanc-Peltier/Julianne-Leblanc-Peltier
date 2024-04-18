@@ -4,6 +4,14 @@ I'm a Grade 10 student aspiring for a computer science or technology job, using 
 
 ## Programming Languages
 
+<a href="https://github.com/search?q=user%3AJulianne-Leblanc-Peltier+language%3Abash"><img alt="Bash" src="https://img.shields.io/badge/Bash-121011.svg?logo=gnu-bash&logoColor=white"></a>  
+<a href="https://github.com/search?q=user%3AJulianne-Leblanc-Peltier+language%3Acss"><img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white"></a>
+<a href="https://github.com/search?q=user%3AJulianne-Leblanc-Peltier+language%3Ahtml"><img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white"></a>
+<a href="https://github.com/search?q=user%3AMJulianne-Leblanc-Peltier+language%3Ajavascript"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=white"></a>
+<a href="https://github.com/search?q=user%3AJulianne-Leblanc-Peltier+language%3Aphp"><img alt="PHP" src="https://img.shields.io/badge/PHP-%23777BB4.svg?logo=php&logoColor=black"></a>
+<a href="https://github.com/search?q=user%3AJulianne-Leblanc-Peltier+language%3Apython"><img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white"></a>
+<a href="https://github.com/search?q=user%3AJulianne-Leblanc-Peltier+language%3Atypescript"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?logo=TypeScript&logoColor=white"></a>
+
 [comment]: <> (
 <img alt="TypeScript" src="https://camo.githubusercontent.com/c13b4f50eae8f09019302ad3f0ccbe882fc617ac755e8bf0defaf4c9267b4910/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f547970655363726970742d2532333030374143432e7376673f6c6f676f3d54797065536372697074266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?logo=TypeScript&amp;logoColor=white" style="max-width: 100%;"> <img alt="Python" src="https://camo.githubusercontent.com/909881c9f0c6055da9beaec88713338ae0fce92d5fb7eed349e1a417c0b009a3/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f507974686f6e2d3134333534432e7376673f6c6f676f3d707974686f6e266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/Python-14354C.svg?logo=python&amp;logoColor=white" style="max-width: 100%;">
 <img alt="HTML" src="https://camo.githubusercontent.com/ed857b47ef9f4432e7832949b63673da1badd2f97f94f6776eb4fabf68be3682/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f48544d4c2d4533344632362e7376673f6c6f676f3d68746d6c35266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&amp;logoColor=white" style="max-width: 100%;">
