@@ -34,6 +34,8 @@ I'm a Grade 10 student aspiring for a computer science or technology job, using 
 ![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
 
 ## Achievements
+- completed Grade 10 Computer Technology (Engineering) TEJ2OR course
+- completed Grade 10 Digital Technology and Innovations in the Changing World (Programming) ICD2OR course
 - completed [INDIGital](https://www.indigenousfriends.org/indigital): Empowerment Through Technology program
 - using [freeCodeCamp](https://www.freecodecamp.org/) to further programming knowledge
 - using [Codecademy](https://www.codecademy.com/) to further programming knowledge
