@@ -1,6 +1,6 @@
 # Julianne Leblanc-Peltier 🎧💻
 
-I'm a Grade 10 student aspiring for a computer science or technology job, using the courses available at my school, [St. Mother Teresa HS](https://teh.ocsb.ca/)
+I'm a Grade 11 student aspiring for a computer science or engineering job, using the courses available at my school, [St. Mother Teresa HS](https://teh.ocsb.ca/)
 
 ## Programming Languages
 <a href="https://github.com/search?q=user%3AJulianne-Leblanc-Peltier+language%3Abash"><img alt="Bash" src="https://img.shields.io/badge/Bash-121011.svg?logo=gnu-bash&logoColor=white"></a>
@@ -34,6 +34,8 @@ I'm a Grade 10 student aspiring for a computer science or technology job, using 
 ![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
 
 ## Achievements
+- currently in Grade 11 Computer Engineering Technology (Circuits & Hardware) TEJ3M course
+- currently in Grade 11 Intro to Computer Science (Python) ICS3U
 - completed Grade 10 Computer Technology (Engineering) TEJ2OR course
 - completed Grade 10 Digital Technology and Innovations in the Changing World (Programming) ICD2OR course
 - completed [INDIGital](https://www.indigenousfriends.org/indigital): Empowerment Through Technology program
