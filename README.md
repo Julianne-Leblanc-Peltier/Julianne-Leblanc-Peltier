@@ -1,6 +1,14 @@
-<h1> Julianne Leblanc-Peltier 🎧💻 </h1>
+<h1 align=center> Julianne Leblanc-Peltier 🎧💻 </h1>
 
-<img src="./images/laptop_smiski.gif" alt="smiski laptop gif" width="300" length="300">
+<img src="https://i.pinimg.com/originals/c2/04/78/c2047855b98271c65a5746ec5e52d8a5.gif" width=350px vertical-align=center> <img src="./images/laptop_smiski.gif" alt="smiski laptop gif" width="300" length="300"> <img src="https://i.pinimg.com/originals/56/6b/db/566bdbb5853a8bbb99b537d2753f25f0.gif" width=350px vertical-align=center>
+
+<hr>
+<p align=center>Two roads diverged in a wood, and I— <br>
+I took the one less traveled by, <br>
+And that has made all the difference. <br>
+- Robert Frost, The Road Not Taken
+</p>
+<hr>
 
 <p> I'm a Grade 11 student aspiring for a computer science or engineering job, using the courses available at my school, <a href="https://teh.ocsb.ca/">St. Mother Teresa HS</a> </p>
 
