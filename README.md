@@ -1,6 +1,5 @@
 <h1 align=center> Julianne Leblanc-Peltier 🎧💻 </h1>
-
-<img src="https://i.pinimg.com/originals/c2/04/78/c2047855b98271c65a5746ec5e52d8a5.gif" width=200px vertical-align=center align=center> <img src="./images/laptop_smiski.gif" alt="smiski laptop gif" width="300" length="300" align=center> <img src="https://i.pinimg.com/originals/56/6b/db/566bdbb5853a8bbb99b537d2753f25f0.gif" width=200px vertical-align=center align=center>
+<img src="./images/laptop_smiski.gif" alt="smiski laptop gif" width="300" length="300">
 
 <hr>
 <p align=center>Two roads diverged in a wood, and I— <br>
