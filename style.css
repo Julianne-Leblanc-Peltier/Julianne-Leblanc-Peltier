@@ -1,0 +1,20 @@
+/* Created by: Julianne Leblanc-Peltier
+* Created on: April 2025
+* This file contains the CSS for README.md
+*/
+
+table {
+    border-collapse: collapse;
+}
+
+.column {
+  float: left;
+  width: 50%;
+}
+
+/* Clear floats after the columns */
+.row::after {
+  content: "";
+  display: table;
+  clear: both;
+}
