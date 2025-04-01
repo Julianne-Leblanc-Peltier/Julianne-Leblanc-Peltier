@@ -1,15 +1,21 @@
 <h1 align=center> Julianne Leblanc-Peltier 🎧💻 </h1>
-<img src="./images/laptop_smiski.gif" alt="smiski laptop gif" width="300" length="300">
 
-<hr>
-<p align=center>Two roads diverged in a wood, and I— <br>
-I took the one less traveled by, <br>
-And that has made all the difference. <br>
-- Robert Frost, The Road Not Taken <br>
-⠀
-:¨ ·.· ¨: <br>
-&nbsp; &nbsp; `· . 𐙚
-</p>
+<table border="0" align=center>
+    <tr>
+        <td><img src="./images/laptop_smiski.gif" alt="smiski laptop gif" width="300" length="300"></td>
+        <td>
+            <p align=center>Two roads diverged in a wood, and I— <br>
+            I took the one less traveled by, <br>
+            And that has made all the difference. <br>
+            - Robert Frost, The Road Not Taken <br>
+            ⠀
+            :¨ ·.· ¨: <br>
+            &nbsp; &nbsp; `· . 𐙚
+            </p>
+        </td>
+    </tr>
+</table>
+
 <hr>
 
 <p> I'm a Grade 11 student aspiring for a software developer or engineer job, using the courses available at my school, <a href="https://teh.ocsb.ca/">St. Mother Teresa HS</a> </p>
