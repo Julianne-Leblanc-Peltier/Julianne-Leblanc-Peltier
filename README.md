@@ -6,11 +6,22 @@
 <p align=center>Two roads diverged in a wood, and I— <br>
 I took the one less traveled by, <br>
 And that has made all the difference. <br>
-- Robert Frost, The Road Not Taken
+- Robert Frost, The Road Not Taken <br>
+⠀
+:¨ ·.· ¨: <br>
+&nbsp; &nbsp; `· . 𐙚
 </p>
 <hr>
 
-<p> I'm a Grade 11 student aspiring for a computer science or engineering job, using the courses available at my school, <a href="https://teh.ocsb.ca/">St. Mother Teresa HS</a> </p>
+<p> I'm a Grade 11 student aspiring for a software developer or engineer job, using the courses available at my school, <a href="https://teh.ocsb.ca/">St. Mother Teresa HS</a> </p>
+
+<hr>
+<h2>Extracurriculars</h2>
+<ul>
+    <li>Student Council</li>
+    <li>Indigenous Student Association</li>
+    <li>Nepean Girls Hockey Association</li>
+</ul>
 
 <h2> Programming Languages </h2>
 <p>
@@ -43,7 +54,7 @@ And that has made all the difference. <br>
     <a href="https://code.visualstudio.com/"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"></a>
 </p>
 
-<h2> Achievements </h2>
+<h2> Coding/Engineering Related Achievements </h2>
 <ul>
     <li> currently in Grade 11 Computer Engineering Technology (Circuits & Hardware) TEJ3M course </li>
     <li> currently in Grade 11 Intro to Computer Science (Python) ICS3U </li>
